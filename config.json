@@ -24,26 +24,26 @@
     },
     "notiGroup": false,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
     "adminOnly": false,
     "UPTIME": 1231526.035836716,
     "ACCESSTOKEN": "",
-    "BOTNAME": "chatbot",
-    "AMDIN_NAME": "Đào Ngọc Nguyên",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/hieukwaii.2000",
-    "MESSENGER_ADMIN": "m.me/hieukawaii.2000",
-    "ZALO_ADMIN": "082xxxxxx88",
+    "BOTNAME": "𝐁𝐨𝐭 𝐁𝐲 𝐇𝐨𝐃𝐚𝐜𝐃𝐢",
+    "AMDIN_NAME": "Hồ Đắc Di",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/hodacdi2012",
+    "MESSENGER_ADMIN": "m.me/hodacdi2012",
+    "ZALO_ADMIN": "0367495466",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100075885595966",
+        "61559447971396",
         "",
-        "100001624277957"
+        ""
     ],
     "NDH": [
-        ""
+        "61559447971396"
     ],
     "menu": {
         "autoUnsend": {
